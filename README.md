@@ -1,6 +1,6 @@
-# project_flutter
+# KutubuQu Flutter App
 
-A new Flutter project.
+Kutubu-Qu adalah sebuah aplikasi Al-Quran yang bisa anda baca. Aplikasi ini juga menyediakan Al-hadist yang terdiri dari beberapa pengarang hadist yang bisa anda baca isi hadistnya. Aplikasi ini mengambil API publik yang berasal dari https://fathimah.docs.apiary.io/ dan https://github.com/sutanlab/hadith-api. aplikasi ini diharapkan mampu meningkatkan ibadahnya kepada Allah swt.
 
 ## Getting Started
 
