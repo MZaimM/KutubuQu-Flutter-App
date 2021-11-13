@@ -2,6 +2,9 @@
 
 Kutubu-Qu adalah sebuah aplikasi Al-Quran yang bisa anda baca. Aplikasi ini juga menyediakan Al-hadist yang terdiri dari beberapa pengarang hadist yang bisa anda baca isi hadistnya. Aplikasi ini mengambil API publik yang berasal dari https://fathimah.docs.apiary.io/ dan https://github.com/sutanlab/hadith-api. aplikasi ini diharapkan mampu meningkatkan ibadahnya kepada Allah swt.
 
+![Kutubu-Qu](https://user-images.githubusercontent.com/65083723/141610636-2dd1cfab-9cd3-4dc7-985a-26f4dea85620.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
